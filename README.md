@@ -2,7 +2,7 @@
 
 ## Project Status
 
-Product discovery and planning stage.
+Dataset selected and product requirements documented. Data inspection and validation are in progress.
 
 ## Project Overview
 
@@ -119,20 +119,20 @@ README.md      Project overview
 
 ### Phase 1 — Product Discovery
 
-- Define the business problem
-- Identify target users
-- Document customer pain points
-- Define product requirements
-- Define MVP features
-- Write user stories
-- Define business KPIs
+- [x] Define the business problem
+- [x] Identify target users
+- [x] Document customer pain points
+- [x] Define product requirements
+- [x] Define MVP features
+- [x] Write user stories
+- [x] Define business KPIs
 
 ### Phase 2 — Data Preparation
 
-- Select a suitable dataset
-- Create a data dictionary
-- Inspect data quality
-- Clean and validate transaction records
+- [x] Select a suitable dataset
+- [x] Create a data dictionary
+- [ ] Inspect data quality
+- [ ] Clean and validate transaction records
 
 ### Phase 3 — Business Analysis
 
