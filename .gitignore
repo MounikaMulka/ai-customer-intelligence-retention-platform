@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw source data
+data/raw/
+*.xlsx
+
+# Generated local files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Environment and secrets
+.env
+.venv/
+venv/
