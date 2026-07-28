@@ -1,0 +1,9 @@
+Column,DataType,NonNullRows,NullRows,UniqueValues
+InvoiceNo,object,541909,0,25900
+StockCode,object,541909,0,4070
+Description,object,540455,1454,4223
+Quantity,int64,541909,0,722
+InvoiceDate,datetime64[ns],541909,0,23260
+UnitPrice,float64,541909,0,1630
+CustomerID,float64,406829,135080,4372
+Country,object,541909,0,38

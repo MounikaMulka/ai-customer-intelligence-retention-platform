@@ -1,0 +1,16 @@
+Metric,Value
+Total rows,541909
+Total columns,8
+Complete duplicate rows,5268
+Rows with missing CustomerID,135080
+Rows with missing Description,1454
+Cancelled transaction lines,9288
+Negative-quantity lines,10624
+Zero-quantity lines,0
+Negative-price lines,2
+Zero-price lines,2515
+Invalid or missing invoice dates,0
+Unique invoices,25900
+Unique products,4070
+Unique identified customers,4372
+Unique countries,38
