@@ -2,7 +2,7 @@
 
 ## Project Status
 
-Dataset selected and product requirements documented. Data inspection and validation are in progress.
+Dataset inspection completed. Cleaning rules and valid-sale definitions are being developed.
 
 ## Project Overview
 
@@ -131,8 +131,9 @@ README.md      Project overview
 
 - [x] Select a suitable dataset
 - [x] Create a data dictionary
-- [ ] Inspect data quality
-- [ ] Clean and validate transaction records
+- [x] Inspect data quality
+- [ ] Define cleaning and validation rules
+- [ ] Create the processed transaction dataset
 
 ### Phase 3 — Business Analysis
 
